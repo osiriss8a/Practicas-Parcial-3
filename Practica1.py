@@ -1,4 +1,4 @@
-'''Valdar Numeros, solo ingresar 2 digitos, eliminar un dato que selecciones y 
+'''Validar Numeros, solo ingresar 2 digitos, eliminar un dato que selecciones y 
 ordenar los numeros en pilas o colas y eliminar en burbuja o seleccion, depense de su 
 seleccion con el radiobutton'''
 
